@@ -6,6 +6,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org/)
+
 DRAGON AUTO tool is a automated termux setup tool which help user to setup termux auto.
 
 ## Installation
