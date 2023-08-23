@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="your-logo.png" alt="Your Tool Logo" width="150px">
-</div>
-
 # DRAGON AUTO
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
